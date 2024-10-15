@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p /home/adolfo9711/holbertonschool-shell/basics/welcome/to/school
+mkdir -p welcome/to/school
